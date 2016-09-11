@@ -1,0 +1,2 @@
+#webgl编程指南练习
+练手项目，熟悉webgl底层渲染与shader的学习
